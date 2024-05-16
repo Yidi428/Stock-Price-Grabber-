@@ -41,4 +41,7 @@ pip install PyQt5 yfinance
 
 Contributions to the Stock Data Grabber project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+![image](https://github.com/Yidi428/Stock-Price-Grabber-/assets/116138589/79848e11-d647-4794-a2fc-ec5782b3b0c0)
+
+
 _This project was created by a noob._
